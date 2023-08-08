@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ad089b4-5fa4-4dc0-b3ca-31b9070131c7" name="Changes" comment="first code in terraform.">
+    <list default="true" id="8ad089b4-5fa4-4dc0-b3ca-31b9070131c7" name="Changes" comment="adding dns records">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roboshop-terraform/roboshop.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-terraform/roboshop.tf" afterDir="false" />
     </list>
@@ -77,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691512601849</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding dns records">
+      <created>1691528845783</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691528845783</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first code in terraform." />
-    <option name="LAST_COMMIT_MESSAGE" value="first code in terraform." />
+    <MESSAGE value="adding dns records" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding dns records" />
   </component>
 </project>
