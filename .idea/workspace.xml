@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ad089b4-5fa4-4dc0-b3ca-31b9070131c7" name="Changes" comment="first code in terraform.">
-      <change afterPath="$PROJECT_DIR$/02-ec2/instance.tf" afterDir="false" />
-    </list>
+    <list default="true" id="8ad089b4-5fa4-4dc0-b3ca-31b9070131c7" name="Changes" comment="first code in terraform." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +46,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691510911605</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first code in terraform.">
+      <created>1691512291618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691512291618</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first code in terraform.">
+      <created>1691512413310</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691512413310</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
