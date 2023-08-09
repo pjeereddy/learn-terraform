@@ -25,5 +25,5 @@ variable "fruit_name-1" {
    }
    }
 output "fruit_name-1_apple" {
-  value = element(var.fruit_name-1["apple"].value,0)
+  value = element(var.fruit_name-1["apple"].state,0)
 }
