@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ad089b4-5fa4-4dc0-b3ca-31b9070131c7" name="Changes" comment="variables in terraform">
-      <change beforePath="$PROJECT_DIR$/03-vars/sample.tf" beforeDir="false" afterPath="$PROJECT_DIR$/03-vars/sample.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/roboshop-v2/roboshop.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-terraform/roboshop.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-v1/roboshop.tf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Ti08X5kw5Qs3CFDjxyIFjni5s5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -146,7 +151,28 @@
       <option name="project" value="LOCAL" />
       <updated>1691596964558</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="variables in terraform">
+      <created>1691597347313</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1691597347313</updated>
+    </task>
+    <task id="LOCAL-00017" summary="variables in terraform">
+      <created>1691597575615</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1691597575615</updated>
+    </task>
+    <task id="LOCAL-00018" summary="variables in terraform">
+      <created>1691597618067</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1691597618067</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
