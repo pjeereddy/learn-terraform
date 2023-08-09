@@ -118,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1691596478939</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="variables in terraform">
+      <created>1691596555800</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691596555800</updated>
+    </task>
+    <task id="LOCAL-00013" summary="variables in terraform">
+      <created>1691596747421</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1691596747421</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
