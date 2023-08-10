@@ -1,5 +1,5 @@
 variable "ami" {
-  default = "ami-03265a0778a880afb"
+  default = ["ami-03265a0778a880afb"]
 }
 
 variable "instance_type" {
@@ -11,7 +11,7 @@ variable "security_groups" {
 }
 
 variable "zone_id" {
-  default = "vZ07566581YBFAK47CB013"
+  default = ["vZ07566581YBFAK47CB013"]
 }
 variable "components" {
   default = {
