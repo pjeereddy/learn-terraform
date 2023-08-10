@@ -14,16 +14,16 @@ variable "zone_id" {
   default = "vZ07566581YBFAK47CB013"
 }
 variable "components" {
-  name = "frontend"
-  name = "mongodb"
-  name = "catalogue"
-  name = "redis"
-  name = "user"
-  name = "cart"
-  name = "mysql"
-  name = "shipping"
-  name = "rabbitmq"
-  name = "payment"
+  frontend= {name = "frontend"}
+  mongodb = {name = "mongodb"}
+  catalogue = {name = "catalogue"}
+  redis =  {name = "redis"}
+  user = {name = "user"}
+  cart= {name = "cart"}
+  mysql = {name = "mysql"}
+  shipping = {name = "shipping"}
+  rabbitmq = {name = "rabbitmq"}
+  payment = {name = "payment"}
 }
 
 resource "aws_instance" "instance" {
