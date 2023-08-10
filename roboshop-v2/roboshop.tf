@@ -15,7 +15,7 @@ variable "zone_id" {
 }
 variable "components" {
   default = {
-    frontend  = { name = "frontend" }
+    frontend  = { name = "frontend-dev" }
     mongodb   = { name = "mongodb-dev"}
     catalogue = { name = "catalogue-dev" }
     redis     = { name = "redis-dev" }
@@ -51,7 +51,7 @@ resource "aws_instance" "instance" {
 resource "aws_route53_record" "instance" {
   for_each = var.components
   zone_id = var.zone_id
-  name    = lookup(each.value, "name", null)
+  name    = "${lookup(each.value, "name", null)}.jdevops74.online"
   type    = "A"
   ttl     = "30"
   records = [lookup(lookup(aws_instance.instance,each.key, null ), "private_ip", null) ]
