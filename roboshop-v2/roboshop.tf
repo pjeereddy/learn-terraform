@@ -7,7 +7,7 @@ variable "instance_type" {
 }
 
 variable "security_groups" {
-  default = "sg-04037aaeeaec0fb25"
+  default = ["sg-04037aaeeaec0fb25"]
 }
 
 variable "zone_id" {
