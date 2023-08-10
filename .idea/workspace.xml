@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ad089b4-5fa4-4dc0-b3ca-31b9070131c7" name="Changes" comment="variables in terraform">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/03-vars/sample.tf" beforeDir="false" afterPath="$PROJECT_DIR$/03-vars/sample.tf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,7 +227,42 @@
       <option name="project" value="LOCAL" />
       <updated>1691600430752</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="variables in terraform">
+      <created>1691600592382</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1691600592382</updated>
+    </task>
+    <task id="LOCAL-00028" summary="variables in terraform">
+      <created>1691600630934</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1691600630934</updated>
+    </task>
+    <task id="LOCAL-00029" summary="variables in terraform">
+      <created>1691600713765</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1691600713765</updated>
+    </task>
+    <task id="LOCAL-00030" summary="variables in terraform">
+      <created>1691600746727</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1691600746727</updated>
+    </task>
+    <task id="LOCAL-00031" summary="variables in terraform">
+      <created>1691600776612</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1691600776612</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
