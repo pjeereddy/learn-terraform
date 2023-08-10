@@ -12,7 +12,7 @@ variable "fruit_name" {
 
 output "fruit_name" {
 #  value = element(var.fruit_name, 2)
-  value =  var.fruit_name
+  value =  var.fruit_name[1]
 }
 
 #variable "fruit_name-1" {
