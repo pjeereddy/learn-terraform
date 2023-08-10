@@ -15,16 +15,26 @@ variable "zone_id" {
 }
 variable "components" {
   default = {
-    frontend  = { name = "frontend-dev" }
-    mongodb   = { name = "mongodb-dev" }
-    catalogue = { name = "catalogue-dev" }
-    redis     = { name = "redis-dev" }
-    user      = { name = "user-dev" }
-    cart      = { name = "cart-dev" }
-    mysql     = { name = "mysql-dev" }
-    shipping  = { name = "shipping-dev" }
-    rabbitmq  = { name = "rabbitmq-dev" }
-    payment   = { name = "payment-dev" }
+#    frontend  = { name = "frontend-dev" }
+#    mongodb   = { name = "mongodb-dev"" }
+#    catalogue = { name = "catalogue-dev" }
+#    redis     = { name = "redis-dev" }
+#    user      = { name = "user-dev" }
+#    cart      = { name = "cart-dev" }
+#    mysql     = { name = "mysql-dev" }
+#    shipping  = { name = "shipping-dev" }
+#    rabbitmq  = { name = "rabbitmq-dev" }
+#    payment   = { name = "payment-dev" }
+    name = "frontend-dev"
+    name = "frontend-dev"
+    name = "catalogue-dev"
+    name = "redis-dev"
+    name = "user-dev"
+    name = "cart-dev"
+    name = "mysql-dev"
+    name = "shipping-dev"
+    name = "rabbitmq-dev"
+    name = "payment-dev"
   }
 }
 
