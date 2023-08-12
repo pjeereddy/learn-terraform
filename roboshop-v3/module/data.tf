@@ -1,6 +1,6 @@
 resource "aws_instance" "instance" {
 
-  ami = "data.aws_ami.ami.id"
+  ami = data.aws_ami.ami.id
   instance_type = var.instance_type
   security_groups= var.security_groups
   tags = {
