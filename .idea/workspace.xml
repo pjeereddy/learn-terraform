@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ad089b4-5fa4-4dc0-b3ca-31b9070131c7" name="Changes" comment="loops in terraform">
-      <change afterPath="$PROJECT_DIR$/roboshop-v3/module/main.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-v3/module/content.tf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-v3/module/data.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-v3/module/data.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-v3/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-v3/main.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-v3/module/data.tf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/roboshop-v3/var.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-v3/var.tf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,13 +45,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691510437778</updated>
-    </task>
-    <task id="LOCAL-00011" summary="variables in terraform">
-      <created>1691596478939</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1691596478939</updated>
     </task>
     <task id="LOCAL-00012" summary="variables in terraform">
       <created>1691596555800</created>
@@ -391,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691882752766</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="loops in terraform">
+      <created>1691883849630</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1691883849630</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
