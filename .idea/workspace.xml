@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ad089b4-5fa4-4dc0-b3ca-31b9070131c7" name="Changes" comment="loops in terraform">
-      <change afterPath="$PROJECT_DIR$/05-modules/local_module/data.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05-modules/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-v3/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-v3/module/content.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-v3/module/data.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-v3/module/variable.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/roboshop-v3/var.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/roboshop-v3/module/content.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-v3/module/content.tf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +43,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691510437778</updated>
-    </task>
-    <task id="LOCAL-00005" summary="first code in terraform.">
-      <created>1691512601849</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1691512601849</updated>
     </task>
     <task id="LOCAL-00006" summary="adding dns records">
       <created>1691528845783</created>
@@ -394,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691702712871</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="loops in terraform">
+      <created>1691881572368</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1691881572369</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
