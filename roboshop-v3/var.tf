@@ -7,7 +7,7 @@ variable "zone_id" {
 }
 
 variable "ami" {
-  default =  ["208273282773"]
+  default =  "208273282773"
 }
 
 
