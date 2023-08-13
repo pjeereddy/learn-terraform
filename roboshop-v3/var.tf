@@ -6,9 +6,6 @@ variable "zone_id" {
   default = "vZ07566581YBFAK47CB013"
 }
 
-
-
-
 variable "components" {
   default = {
     frontend ={
