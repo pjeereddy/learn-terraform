@@ -7,7 +7,6 @@
     <list default="true" id="8ad089b4-5fa4-4dc0-b3ca-31b9070131c7" name="Changes" comment="loops in terraform">
       <change beforePath="$PROJECT_DIR$/roboshop-v3/module/data.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-v3/module/data.tf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/roboshop-v3/module/main.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-v3/module/main.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/roboshop-v3/var.tf" beforeDir="false" afterPath="$PROJECT_DIR$/roboshop-v3/var.tf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +44,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691510437778</updated>
-    </task>
-    <task id="LOCAL-00016" summary="variables in terraform">
-      <created>1691597347313</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1691597347313</updated>
     </task>
     <task id="LOCAL-00017" summary="variables in terraform">
       <created>1691597575615</created>
@@ -389,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691929863748</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="loops in terraform">
+      <created>1691930208759</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1691930208759</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
