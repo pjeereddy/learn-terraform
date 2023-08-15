@@ -6,10 +6,8 @@ terraform {
   }
 }
 
-variable "test" {
-  default = "s3 bucket"
-}
+variable "test" {}
+  output "test" {
+    value = var.test
+  }
 
-output "test" {
-  value = var.test
-}

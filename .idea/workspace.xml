@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ad089b4-5fa4-4dc0-b3ca-31b9070131c7" name="Changes" comment="loops in terraform">
-      <change afterPath="$PROJECT_DIR$/06-state/main.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-state/env-dev/state.tfvars" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06-state/env-prod/state.tfvars" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +44,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691510437778</updated>
-    </task>
-    <task id="LOCAL-00026" summary="variables in terraform">
-      <created>1691600430752</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1691600430752</updated>
     </task>
     <task id="LOCAL-00027" summary="variables in terraform">
       <created>1691600592382</created>
@@ -388,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692061251596</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="loops in terraform">
+      <created>1692119624938</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1692119624938</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
