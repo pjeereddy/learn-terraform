@@ -1,3 +1,3 @@
 bucket = "jdevops74"
-key    = "prod/terraform.state"
+key    = "prod/terraform.tfstate"
 region = "us-east-1"

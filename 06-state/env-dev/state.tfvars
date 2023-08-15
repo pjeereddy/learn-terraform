@@ -1,3 +1,3 @@
 bucket = "jdevops74"
-key    = "dev/terraform.state"
+key    = "dev/terraform.tfstate"
 region = "us-east-1"
